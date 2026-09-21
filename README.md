@@ -2,7 +2,7 @@
 
 > **0.024 $ par image (1MP)**, facturé à l'usage. Recharge à partir de 1 $ et une seule URL compatible OpenAI : `https://api.apimart.ai/v1`.
 
-**[Page modèle FLUX.2](https://apimart.ai/fr/model/flux-2)** · **[Tarifs en direct](https://apimart.ai/fr/pricing)** · **[Obtenir une clé API](https://apimart.ai/fr/keys)**
+**[Page modèle FLUX.2](https://go.apimart.ai/k-bdf494)** · **[Tarifs en direct](https://go.apimart.ai/k-215563)** · **[Obtenir une clé API](https://go.apimart.ai/k-8f584f)**
 
 Facturation au mégapixel : 2,4 cents l'image en 1MP ; pro, max ou flex se changent sans toucher au code.
 
