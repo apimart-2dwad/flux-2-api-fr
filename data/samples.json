@@ -1,0 +1,27 @@
+{
+  "model": "flux-2-pro",
+  "samples": [
+    {
+      "repo": "flux-2-api-fr",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.jpg",
+      "bytes": 621961,
+      "cost": 0.024,
+      "prompt": "ruelle de Tokyo sous la pluie, reflets néon sur l'asphalte mouillé, rendu film 35mm",
+      "lang": "fr"
+    },
+    {
+      "repo": "flux-2-api-fr",
+      "slug": "02-preview",
+      "ok": true,
+      "file": "02-preview.jpg",
+      "bytes": 213144,
+      "cost": 0.024,
+      "prompt": "tasse en céramique en studio, lumière douce de fenêtre, objectif 85mm",
+      "lang": "fr"
+    }
+  ],
+  "cost_usd": 0.048,
+  "generated_at": "2026-09-21"
+}
